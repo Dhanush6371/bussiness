@@ -4,6 +4,7 @@
     "app_id": "sbSDiEEliHFmlwHyBxoZsdkN",
     "app_type": "static_site",
     "deploy": {
-        "target_dir": "./"
+        "target_dir": "./dist
+        "
     }
 }
